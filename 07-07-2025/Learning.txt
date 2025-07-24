@@ -1,0 +1,2 @@
+Starting with a new project on vehicle insurance (Mlops)
+repo link- https://github.com/Anuroopgowda/Vehicle-insurance
