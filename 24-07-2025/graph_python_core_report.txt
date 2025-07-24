@@ -1,0 +1,29 @@
+
+Daily Progress Report – Graphs & Python Core Review
+
+Topics Covered:
+
+1. Graph Representations & Operations
+- Studied Adjacency Matrix and Adjacency List representation of graphs.
+- Practiced the following operations:
+  - Adding edges
+  - Removing edges
+  - Printing the graph
+
+2. Graph Traversals
+- Understood and implemented:
+  - Breadth-First Search (BFS) – Explores neighbors level-by-level.
+  - Depth-First Search (DFS) – Explores as deep as possible before backtracking.
+- Applied both traversals on:
+  - Adjacency Matrix
+  - Adjacency List
+
+3. Key Concepts Revised
+- Difference between BFS and DFS
+- Traversal types: Pre-order, In-order, Post-order (for trees)
+- Difference between Dijkstra's Algorithm and Minimum Spanning Tree (MST) in terms of:
+  - Node coverage
+  - Edge weight criteria
+
+4. Python Core Concepts Revised
+
