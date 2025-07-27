@@ -1,0 +1,50 @@
+ Project:
+1.Setting up the directory and virtual environment
+2.error while installing the requirements(due to project in onedrive)
+
+
+
+Coding
+1. Breadth-First Search (BFS)
+Implemented BFS traversal using adjacency matrix representation.
+
+Used a queue (stack.pop(0)) and a visited list to track node visits.
+
+Explored neighbors in increasing index order.
+
+Tested BFS with multiple adjacency matrices.
+
+🔹 2. Depth-First Search (DFS)
+Implemented DFS using a stack and a visited list.
+
+Explored neighbors in reverse order to simulate typical DFS stack behavior.
+
+Created a second DFS function with parameterized start node.
+
+Verified DFS on adjacency matrix inputs.
+
+🔹 3. Prim’s Algorithm (MST)
+Implemented two versions of Prim’s:
+
+Custom implementation: Used a priority list to select edges with minimal weight.
+
+Standard textbook implementation: Used adjacency matrix, selected vertices, and explicitly found minimum weight edge in every iteration.
+
+Tested on weighted graphs (test_matrix, graph, and G).
+
+🔹 4. Kruskal’s Algorithm (MST)
+Built a Graph class with:
+
+Edge addition method
+
+find() with path compression
+
+apply_union() with union by rank
+
+Implemented Kruskal’s logic:
+
+Sorted edges by weight
+
+Used union-find to avoid cycles
+
+Constructed MST step-by-step
