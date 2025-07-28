@@ -1,0 +1,8 @@
+1.Successfully connected to MongoDB Atlas using PyMongo and inserted sample data into the Proj1-Data collection.
+
+2.Resolved authentication issues and understood the importance of pyproject.toml and setup.py in managing Python packages     within a virtual environment.
+
+3.Practiced GFG problem: Transitive Closure of a Graph – implemented using DFS traversal to compute reachability matrix.
+
+https://www.geeksforgeeks.org/problems/transitive-closure-of-a-graph0930/0
+GitHub link:https://github.com/Anuroopgowda/Vehicle-insurance/commits/main/
