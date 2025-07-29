@@ -1,0 +1,6 @@
+Added logging and exception handling mechanisms to the Vehicle Insurance project to improve debugging and maintainability.
+
+Performed exploratory data analysis (EDA) on data.csv, identifying key patterns and distributions relevant to customer behavior.
+
+Practiced Python programming questions.
+GitHub link:https://github.com/Anuroopgowda/Vehicle-insurance/commits/main/
