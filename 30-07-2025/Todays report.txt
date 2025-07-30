@@ -1,0 +1,14 @@
+Completed preprocessing of the Vehicle Insurance dataset (encoding, scaling, and cleanup).
+
+Trained a Random Forest Classifier with hyperparameter tuning using RandomizedSearchCV.
+
+Saved the trained model and evaluated performance using classification metrics.
+
+Discussed the Bugget Analyzer project.
+
+Practiced Python programming questions.
+https://leetcode.com/submissions/detail/1716861737/
+subarray sum is equal to k
+
+Practiced Python programming questions.
+GitHub link:https://github.com/Anuroopgowda/Vehicle-insurance/commits/main/
