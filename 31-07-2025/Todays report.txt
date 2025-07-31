@@ -1,0 +1,9 @@
+Completed data ingestion pipeline setup for the Vehicle Insurance project.
+
+Discussed and prepared the SRS document for the Budget Analyzer project.
+
+Practiced Python programming problems.
+subarray sum is equal to k(using dictionary)
+
+Practiced Python programming questions.
+GitHub link:https://github.com/Anuroopgowda/Vehicle-insurance/commits/main/
