@@ -1,0 +1,9 @@
+Daily updates:
+
+I worked on solving Python questions and did a quick revision of Machine Learning topics. 
+
+I also spent time searching for suitable datasets for the Budget Analyzer project.
+
+
+
+GitHub link:https://github.com/Anuroopgowda/Vehicle-insurance/commits/main/
