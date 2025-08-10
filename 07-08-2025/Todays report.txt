@@ -1,0 +1,7 @@
+Daily updates:
+
+I set up the complete machine learning pipeline structure in the mlbranch, ensuring it aligns with the project flow from data ingestion to model evaluation. 
+
+I received and reviewed key machine learning concepts to reinforce my understanding and support the upcoming development phases.
+
+https://github.com/rohitsingh0910/Product-Budget-Analyzer
