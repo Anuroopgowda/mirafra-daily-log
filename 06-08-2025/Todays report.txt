@@ -1,0 +1,7 @@
+Daily updates:
+
+I worked on solving Python programming questions and explored concepts related to Large Language Models (LLMs), particularly focusing on the Transformer architecture and its phases. 
+
+I continued analyzing and organizing the dataset identified for the Budget Analyzer project to ensure it aligns with the project objectives.
+
+https://github.com/rohitsingh0910/Product-Budget-Analyzer
