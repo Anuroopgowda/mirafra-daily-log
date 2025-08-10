@@ -1,0 +1,11 @@
+Daily Progress Update:
+
+Completed data transformation and validation stages in the Vehicle Insurance project pipeline.
+
+Received the Python.
+
+Regarding the Budget Analyzer project, we found a dataset that aligns closely with the project requirements and are currently exploring and validating it for further use.
+
+
+
+GitHub link:https://github.com/Anuroopgowda/Vehicle-insurance/commits/main/
