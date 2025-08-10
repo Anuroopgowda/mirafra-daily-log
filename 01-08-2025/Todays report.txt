@@ -1,0 +1,9 @@
+Daily Progress Update:
+
+Completed the data ingestion pipeline implementation for the Vehicle Insurance project.
+
+Worked on gathering and structuring the requirements for the Budget Analyzer project.
+
+Practiced Python programming questions.
+
+GitHub link:https://github.com/Anuroopgowda/Vehicle-insurance/commits/main/
