@@ -1,0 +1,8 @@
+Daily Update:
+
+I had a review meeting today, during which we finalized a dataset suitable for our model based on the required columns.
+Additionally, I revisited and reinforced key machine learning concepts to strengthen my understanding and better support the upcoming development phases.
+
+
+
+https://github.com/rohitsingh0910/Product-Budget-Analyzer
